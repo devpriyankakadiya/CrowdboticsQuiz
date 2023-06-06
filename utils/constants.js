@@ -1,0 +1,1 @@
+export const c_orange = '#ee682a';
